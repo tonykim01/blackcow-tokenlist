@@ -24,7 +24,7 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: .  # 현재 디렉토리를 GitHub Pages에 올릴 디렉토리로 사용
 
