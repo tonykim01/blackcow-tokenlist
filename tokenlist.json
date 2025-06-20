@@ -1,0 +1,34 @@
+{
+  "name": "Blackcow List",
+  "timestamp": "2025-06-20T20:23:00.603513Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "meme": {
+      "name": "Meme",
+      "description": "Meme tokens"
+    }
+  },
+  "logoURI": "https://blackcow.zone/logo.png",
+  "keywords": [
+    "blackcow",
+    "bkc",
+    "meme"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x28a229b144Fa6Cd82D7d0425626Ff2D65dEF9640",
+      "name": "Blackcow Coin",
+      "symbol": "BKC",
+      "decimals": 18,
+      "logoURI": "https://blackcow.zone/logo.png",
+      "tags": [
+        "meme"
+      ]
+    }
+  ]
+}
